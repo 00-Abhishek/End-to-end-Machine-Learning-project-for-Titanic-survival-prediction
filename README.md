@@ -45,8 +45,8 @@ It demonstrates a complete ML workflow from data preprocessing to deployment.
 ### 1. Clone repository
 
 ```bash
-git clone https://github.com/your-username/titanic-survival-ml.git
-cd titanic-survival-ml
+git clone https://github.com/your-username/End-to-end-Machine-Learning-project-for-Titanic-survival-prediction.git
+cd End-to-end-Machine-Learning-project-for-Titanic-survival-prediction
 ```
 
 ### 2. Install dependencies
